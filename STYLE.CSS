@@ -1,0 +1,39 @@
+body{
+    background-color:#EFEAE3;
+}
+
+h1{
+    text-align:center;
+    color:#4E4B5C;
+    font-family:Georgia;
+    
+}
+
+.chessboard{
+    width: 640px;
+    height: 640px;
+    margin: 0 auto;
+}
+
+
+.charcoal{
+    background-color: #4E4B5C;
+    width: 80px;
+    height: 80px;
+    float: left;
+    color: #A37871;
+    font-size: 3.2rem;
+    text-align: center;
+    
+
+}
+
+.taupe{
+    background-color: #A37871;
+    width: 80px;
+    height: 80px;
+    float: left;
+    color: #4E4B5C;
+    font-size: 3.2rem;
+    text-align: center;
+}
